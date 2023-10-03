@@ -13,14 +13,14 @@ import salesRoutes from './routes/sales.js';
 //data imports 
 // import User from "./models/User.js";
 // import {dataUser} from "./data/index.js";
-import AffiliateStat from "./models/AffiliateStat.js";
-import OverallStat from "./models/OverallStat.js";
-import Transaction from "./models/Transaction.js";
-import Product from "./models/Product.js";
-import ProductStat from "./models/ProductStat.js";
-import {dataUser,
-    dataAffiliateStat,
-    dataProduct, dataProductStat,dataTransaction, dataOverallStat} from "./data/index.js";
+// import AffiliateStat from "./models/AffiliateStat.js";
+// import OverallStat from "./models/OverallStat.js";
+// import Transaction from "./models/Transaction.js";
+// import Product from "./models/Product.js";
+// import ProductStat from "./models/ProductStat.js";
+// import {dataUser,
+//     dataAffiliateStat,
+//     dataProduct, dataProductStat,dataTransaction, dataOverallStat} from "./data/index.js";
 
 
 // CONFIGURATION

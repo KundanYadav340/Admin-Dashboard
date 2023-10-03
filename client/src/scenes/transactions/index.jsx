@@ -89,12 +89,12 @@ const Transactions = () => {
           rows={(data && data.transactions) || []}
           columns={columns}
           rowSize={(data && data.total) || 0}
-        // rowSize={100}
+          // rowSize={100}
           pageSizeOptions={[20, 50, 100]}
           pagination
           paginationModel={{
-          page:page,
-          pageSize:pageSize
+            page: page,
+            pageSize: pageSize,
           }}
           paginationMode="server"
           sortingMode="server"
